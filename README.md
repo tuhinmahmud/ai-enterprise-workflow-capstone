@@ -1,4 +1,4 @@
-# AI Enterprise Workflow Capstone Project
+# Workflow Capstone Project
 
 This project uses time series to forecast revenue prediction for the next 30 days.
 
